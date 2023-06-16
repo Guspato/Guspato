@@ -2,7 +2,7 @@
 
 - 💻 Atualmente em formação nos cursos: Explorer e Ignite | RocketSeat; 🚀
 - 🌱 No momento me aprofundando em JavaScript;
-- ⏰ Nas horas vagas gosto de estudar e desenvolve.
+- ⏰ Nas horas vagas gosto de estudar e desenvolver.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guspato&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guspato&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
